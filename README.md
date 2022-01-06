@@ -8,7 +8,7 @@
 
 make 2 copy of container php7.4
 
-![image](https://user-images.githubusercontent.com/93064971/148398956-39886a08-4340-4422-bbcf-d43c83835af8.png)
+![image](https://user-images.githubusercontent.com/93064971/148401245-5b959f0a-483c-4d3e-99c3-c3028ed08a19.png)
 
 go to php7.4_2 then Configurasi IP dan nginx ubuntu_landing_2
 
