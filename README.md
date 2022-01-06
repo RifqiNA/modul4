@@ -193,9 +193,9 @@ Here we can know that the average time of user accessing our web is faster then 
   - app : 14 user / second
 
  - 150 users
-  - landing : 13 user / second
-  - blog :  11 user / second
-  - app : 11 user / second
+   - landing : 13 user / second
+   - blog :  11 user / second
+   - app : 11 user / second
    
 - When we use load balancer, then
 
@@ -205,9 +205,9 @@ Here we can know that the average time of user accessing our web is faster then 
   - app : 192 user / second
 
  - 150 users
-  - landing : 31 user / second
-  - blog :  185 user / second
-  - app : 191 user / second
+   - landing : 31 user / second
+   - blog :  185 user / second
+   - app : 191 user / second
 
 
 The conclusion is, if we use load balancer, then the time is faster and the amount of users that accessing our web is much more then when we don't use load balancer. although for the landing web don't really change drastically but still faster than without load balancer.
